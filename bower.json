@@ -1,0 +1,26 @@
+{
+  "name": "Atem-MOM-Glyphs-Integration",
+  "version": "0.0.0",
+  "homepage": "https://github.com/graphicore/Atem-MOM-Glyphs-Integration",
+  "authors": [
+    "Lasse Fister <commander@graphicore.de>"
+  ],
+  "description": "Make the Metapolator Object Model available in the Glyphs font editor.",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "Glyphs",
+    "MOM",
+    "Metapolator"
+  ],
+  "license": "GPLv3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/lib/bower_components",
+    "test",
+    "tests"
+  ]
+}
