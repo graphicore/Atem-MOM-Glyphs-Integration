@@ -114,7 +114,6 @@ function (
             pen.drawPoints(new PointToSegmentPen(svgPen));
             pen.drawPoints(new PointToSegmentPen(boundsPen));
             bounds = boundsPen.getBounds();
-            // >>>  [9.999999999999998, -9, 528, 670]
             svg = document.createElementNS(svgns, 'svg');
             svg.setAttribute('viewBox', [0, 0, bounds[2], bounds[3]].join(' '))
             svg.style.overflow = 'visible';
