@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/graphicore/Atem-MOM-Glyphs-Integration/issues"
   },
-  "homepage": "https://github.com/graphicore/Atem-MOM-Glyphs-Integration"
+  "homepage": "https://github.com/graphicore/Atem-MOM-Glyphs-Integration",
+  "dependencies": {
+    "commander": "git://github.com/graphicore/commander.js.git#atem-integration",
+    "express": "^4.13.4",
+    "helmsman": "^1.0.3",
+    "lie": "^3.0.2",
+    "requirejs": "^2.2.0"
+  }
 }
