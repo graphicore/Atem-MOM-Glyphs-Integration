@@ -1,0 +1,4 @@
+id: base-default
+attachment:
+  fontinfo: {}
+  cpsFile: lib/MOM/primary.cps
