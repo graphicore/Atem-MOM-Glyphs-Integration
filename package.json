@@ -1,6 +1,6 @@
 {
   "name": "atem-mom-glyphs-integration",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": " Make the Metapolator Object Model available in the Glyphs font editor. ",
   "main": "app/lib/main.js",
   "scripts": {
